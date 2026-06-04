@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\user\\onedrive\\documents\\tech\\windowsformsapp1\\windowsformsapp1\\clientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\clientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\clientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\clientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\clientdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\clientdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\ourservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ourservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\ourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\ourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{157B0F1F-FC5C-4E23-8AF5-556C6F4EA1CE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\ClientDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ClientDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\ClientDashboard.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ClientDashboard.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:00:24.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Login.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:31:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Homepage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Homepage.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Homepage.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Homepage.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Homepage.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:20:34.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Homepage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Homepage.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Homepage.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Homepage.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:19:49.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Homepage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Homepage.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Homepage.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:19:36.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\EmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\EmployeeDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\EmployeeDashboard.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\EmployeeDashboard.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:24:49.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\EmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\EmployeeDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\EmployeeDashboard.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\EmployeeDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:19:51.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\ClientDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ClientDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\ClientDashboard.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ClientDashboard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:11:49.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\ClientDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ClientDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\ClientDashboard.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\ClientDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:08:35.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:36:17.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\AdminDashboard.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AdminDashboard.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAxwG8BAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:35:15.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Signup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Signup.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Signup.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Signup.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Signup.Designer.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAADwv+cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:28:49.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Signup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Signup.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Signup.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Signup.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAA/wLQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:27:53.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Signup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Signup.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Signup.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:27:46.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OurService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\OurService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OurService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\OurService.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\OurService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:59:40.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:35:08.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OurService.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\OurService.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OurService.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\OurService.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\OurService.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAADYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:59:36.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OurService.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\OurService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OurService.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\OurService.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\OurService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:59:33.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutUs.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\AboutUs.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AboutUs.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\AboutUs.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AboutUs.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:53:33.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:24:53.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:24:50.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:18:34.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\App.config",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\TECh\\WindowsFormsApp1\\WindowsFormsApp1\\App.config",
+              "RelativeToolTip": "WindowsFormsApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T18:15:54.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
