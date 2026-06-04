@@ -40,7 +40,6 @@ The IT Firm Management System is a role-based desktop application developed usin
 * C#
 * Windows Forms
 * SQL Server
-* ADO.NET
 * Visual Studio
 
 ## Database Entities
